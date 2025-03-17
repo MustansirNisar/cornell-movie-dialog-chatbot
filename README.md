@@ -1,6 +1,3 @@
-# cornell-movie-dialog-chatbot
-
-
 
 # Cornell Movie Dialog Chatbot
 
