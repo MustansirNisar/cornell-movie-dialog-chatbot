@@ -50,10 +50,4 @@ This project builds a chatbot using the Cornell Movie Dialogs Corpus. The implem
 
 This project uses the Cornell Movie Dialogs Corpus, a dataset containing conversations from movie scripts. The dataset is publicly available and widely used for training conversational agents.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to customize this README further based on any additional details or specific instructions you want to include.
